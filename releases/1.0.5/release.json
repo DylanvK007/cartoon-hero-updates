@@ -1,0 +1,8 @@
+{
+  "version": "1.0.5",
+  "notes": "Less bloat",
+  "createdAt": "2026-11-13T22:12:22.312Z",
+  "publishedAt": "2026-11-13T22:12:23.185Z",
+  "payload": "{\"app\":\"cartoon-hero\",\"version\":\"1.0.5\",\"notes\":\"Less bloat\",\"publishedAt\":\"2026-11-13T22:12:23.185Z\",\"files\":[{\"path\":\"index.html\",\"size\":103169,\"sha256\":\"724db2279b77903ea78b029ef75a412811b38eb8409d965c301e51c1b1352a96\"}]}",
+  "signature": "lw3c3VJb1B130/h/4pgmtcgGUcLtjnD4ZsKw7/9C6QycJ8PY7HK3fgQDMTwQh1EnNDuB4wfBpHYZeB2Xm/DcAA=="
+}
